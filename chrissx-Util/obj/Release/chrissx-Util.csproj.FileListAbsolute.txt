@@ -1,0 +1,2 @@
+D:\Bibliotheken\Desktop\chrissx-Util\chrissx-Util\obj\Release\chrissx-Util.csprojResolveAssemblyReference.cache
+D:\Bibliotheken\Desktop\chrissx-Util\chrissx-Util\obj\Release\chrissx-Util.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\chrissicx\Desktop\chrissx-Util\chrissx-Util\bin\Debug\chrissx-Util.dll
+C:\Users\chrissicx\Desktop\chrissx-Util\chrissx-Util\bin\Debug\chrissx-Util.pdb
+C:\Users\chrissicx\Desktop\chrissx-Util\chrissx-Util\obj\Debug\chrissx-Util.csprojResolveAssemblyReference.cache
+C:\Users\chrissicx\Desktop\chrissx-Util\chrissx-Util\obj\Debug\chrissx-Util.csproj.CoreCompileInputs.cache
+C:\Users\chrissicx\Desktop\chrissx-Util\chrissx-Util\obj\Debug\chrissx-Util.dll
+C:\Users\chrissicx\Desktop\chrissx-Util\chrissx-Util\obj\Debug\chrissx-Util.pdb
